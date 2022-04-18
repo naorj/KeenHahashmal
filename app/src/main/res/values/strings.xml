@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">KeenHahashmal</string>
+
+    <string-array name="filterOfItem">
+        <item>תאריך</item>
+        <item>מחיר</item>
+    </string-array>
+
+    <string-array name="filterOfDelivery">
+        <item>תאריך</item>
+        <item>ספק</item>
+        <item>שולם?</item>
+    </string-array>
+
+    <string-array name="expenseGroup">
+        <item>קבוצת הוצאות</item>
+        <item>ציוד וחומרי גלם</item>
+        <item>שונות</item>
+        <item>רכב ותחבורה</item>
+        <item>שיווק פרסום וקידום מכירות</item>
+        <item>תפעוליות</item>
+        <item>מידע השתלמויות ויעוץ</item>
+    </string-array>
+
+    <string-array name="expenseType">
+        <item>סוג הוצאה</item>
+        <item>ציוד מתכלה</item>
+        <item>כלי עבודה שוטף</item>
+        <item>חומרי עבודה שוטף</item>
+        <item>סלולרי</item>
+        <item>דלק</item>
+        <item>חניה</item>
+        <item>רכב כללי</item>
+        <item>השתלמויות</item>
+        <item>יעוץ לעסק</item>
+        <item>ביגוד מקצועי</item>
+        <item>תרומות</item>
+        <item>אחר</item>
+    </string-array>
+
+    <string-array name="suppliers">
+        <item>ace</item>
+        <item>רוזנפלד</item>
+        <item>ארכה</item>
+        <item>הטכנית של זאב</item>
+        <item>חשמל ישיר</item>
+        <item>גוזי אספקה טכנית</item>
+        <item>ש.אמיר ציוד טכני</item>
+        <item>אייס קפיטל קמעונאות</item>
+        <item>ח.נ.טכניק מרכז לאספקה</item>
+        <item>סונול</item>
+        <item>המזגן לצרכן</item>
+        <item>י.מ. מאור</item>
+        <item>הכל לבית ולגן</item>
+        <item>פז</item>
+        <item>אופיס 3000</item>
+        <item>טמבור אברהם</item>
+        <item>יעקב עיסא בע"מ</item>
+        <item>אריאל חומרי בנין - שטיפת מכוניות</item>
+        <item>עמיטל סחר ואספקה</item>
+        <item>טלראן תקשורת</item>
+        <item>צלח</item>
+        <item>חצרוני</item>
+        <item>מ.ש. הכהנים חומרי בניין בע"מ</item>
+        <item>מחסני איכות (מרכז) בע"מ</item>
+        <item>המחסן המרכזי בע"מ</item>
+        <item>הום סנטר</item>
+        <item>ניסן אלקטרוניקה</item>
+        <item>סולמות חגית</item>
+        <item>כתר</item>
+        <item>בראנד אספקה טכנית</item>
+        <item>נוגה כלים</item>
+        <item>דפי זהב</item>
+        <item>חסדי נעומי</item>
+        <item>מטווח אשל שומרון</item>
+
+    </string-array>
+</resources>

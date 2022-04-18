@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.keenhahashmal">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="50" />
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="50" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission
+        android:name="android.permission.MANAGE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+
+    <application
+        android:fullBackupOnly="true"
+        android:icon="@drawable/electricity"
+        android:label="כעין החשמל"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.KeenHahashmal"
+        android:usesCleartextTraffic="true"
+        android:vmSafeMode="true">
+        <activity
+            android:name=".ProductCompare"
+            android:label=""
+            android:exported="false"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".ShowAllItems"
+            android:exported="false"
+            android:label=""
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".AddAnItemOrDeliveryNote"
+            android:exported="false"
+            android:label="הוספת פריט"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FullScreenActivity"
+            android:exported="true"
+            android:label="תצוגת פריט" />
+        <activity
+            android:name=".CreatePDF"
+            android:exported="true"
+            android:label="יצירת פירוט תקופתי"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".ItemsActivity"
+            android:exported="true"
+            android:label="כעין החשמל - תצוגת פריטים"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".addAnObject"
+            android:exported="true"
+            android:label="כעין החשמל - הוספת פריט"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="כעין החשמל">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.example.keenhahashmal.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+    </application>
+</manifest>
