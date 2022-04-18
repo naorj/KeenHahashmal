@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/drawable/bg_track.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/drawable/ic_baseline.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/drawable/ic_baseline_airport_shuttle.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13229166666666667" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/font/my_font.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/layout/activity_add_an_item_or_delivery_note.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/layout/activity_add_an_object.xml" value="0.264" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/layout/activity_create_pdf.xml" value="0.264" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/layout/activity_details.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/layout/activity_fragment_show_delivery_items.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/layout/activity_full_screen.xml" value="0.1983695652173913" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/layout/activity_items.xml" value="0.2" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/layout/activity_login.xml" value="0.18704710144927536" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/layout/activity_product_compare.xml" value="0.264" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/layout/activity_show_all_items.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/layout/delivery_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/layout/dialogcontent.xml" value="0.22192028985507245" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/layout/dialogcontentfordelivery.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/layout/dialogcontentforfab.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/layout/dialogcontentforproduct.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/layout/item_fragment.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/layout/row_delivery_item.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/layout/row_item.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/layout/row_product_item.xml" value="0.134375" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/menu/mainmenu.xml" value="0.134375" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/menu/searchmenu.xml" value="0.264" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/xml/file_paths.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/USER/KeenHahashmal2/app/src/main/res/xml/provider_paths.xml" value="0.11614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
